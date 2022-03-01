@@ -72,7 +72,7 @@ gem 'sidekiq'
 gem 'pg'
 gem 'execjs'
 gem 'mini_racer'
-gem "image_processing", "~> 1.0"
+gem "image_processing", "~> 1.12"
 gem 'search_flip'
 gem 'ransack'
 gem 'paypal-checkout-sdk'
